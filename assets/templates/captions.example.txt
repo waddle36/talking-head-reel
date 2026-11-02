@@ -1,0 +1,45 @@
+[hook] {s}Why does everyone / {l}*scroll past* / {l}*your videos?*
+[hook] {s}It's not the / {xl}*algorithm.*
+Let's fix it.
+There are *three mistakes*
+I see in almost / *every video*
+that people *skip,*
+and every one of them / is *easy to fix.*
+[chapter:1] Mistake number one, you start slow.
+A lot of videos / open with
+*hey guys,* / welcome back,
+today I want / to talk about.
+By then / the viewer is *gone.*
+[hide:cardA] Most people decide in the first second or two if they keep watching or keep scrolling,
+so put the / *best part first.*
+Open with
+[list] the problem, the promise or the surprise.
+Say it out loud
+and put it *on screen,*
+because a lot of people / watch with the *sound off.*
+[chapter:2] Number two, there's no structure.
+[big] If I don't know / where this is *going,*
+why would I *stay?*
+Tell people / *how many*
+points are coming.
+Three mistakes,
+five tips,
+two questions.
+[hide:cardB] A number gives the viewer a finish line and a reason to stay until the very end,
+and then / *show it*
+the whole way through,
+so they always know / *where they are.*
+[chapter:3] Number three is no clear ask.
+Most videos / just *stop,*
+and people walk away thinking
+[tags] okay, now what, was that it, should I follow, where's the link, what do I do,
+[big] Answer that / *for them.*
+[hide:cardC] Pick one ask, make it something people can answer in a single word, and put it on screen,
+then / *stop talking.*
+So here's the *fix.*
+Hook them / in the *first second,*
+show them / *the structure,*
+and give them / *one thing*
+to do at the end.
+That's how you / get people to *stay*
+[big] until the / *very end.*

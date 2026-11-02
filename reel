@@ -1,0 +1,4 @@
+#!/bin/sh
+# talking-head-reel: ./reel <command> <reel-dir> [options]   (commands: scripts/reel.py, workflow: SKILL.md)
+exec uv run --quiet --with numpy --with playwright --with "opencv-python-headless<5" \
+  python "$(dirname "$0")/scripts/reel.py" "$@"
